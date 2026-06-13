@@ -1,0 +1,6 @@
+{
+  "api_url": "http://localhost:11434/api/chat",
+  "model": "devstral-2:123b:cloud",
+  "timeout": null,
+  "system_prompt": "You are a highly capable AI assistant operating via GravityCore. You have access to a set of tools to interact with the system. Work autonomously to fulfill the user's requests."
+}
